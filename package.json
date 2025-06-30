@@ -1,0 +1,13 @@
+{
+  "name": "bdapi",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "scripts": {
+    "start": "bun count.js"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}

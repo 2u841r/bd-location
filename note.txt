@@ -1,0 +1,64 @@
+রাজশাহী + খুলনা = শুধু সিটি কর্পোরেশন আছে, সদর থানা নেই।
+
+বরিশাল + সিলেট = সিটি কর্পোরেশন ও সদর, উভয়টিই আছে।
+
+
+https://bdapi.editboxpro.com/
+
+অনেক ভুল, ৩ মিসিং উপজেলা, non-upgraded info & more. 
+
+বিড়াল ছিলো, = বিরল (দিনাজপুর) 
+{
+            "id": 433,
+            "division_name": "rangpur",
+            "district_name": "kurigram",
+            "name": "Raomari",
+            "name_bn": "রৌমারী" // রাউমারি ছিলো
+          },
+ {
+            "id": 367,
+            "division_name": "sylhet",
+            "district_name": "sylhet",
+            "name": "Jaintiapur",
+            "name_bn": "জৈন্তাপুর" // জয়ন্তপুর chilo
+          },
+{
+            "name_bn": "দিরাই" // দেরাই ছিলো
+          },
+ধর্মপাশা, ধরমপাশা ছিলো
+
+
+// missing 
+তারাকান্দা উপজেলা ইন ময়মনসিংহ মিসিং
+{
+            "id": 398,
+            "division_name": "sylhet",
+            "district_name": "sunamganj",
+            "name": "Madhyanagar",
+            "name_bn": "মধ্যনগর"
+          }
+
+http://lalmai.comilla.gov.bd/
+
+// থানা না, তবুও ছিলো
+{
+            "id": 351,
+            "division_name": "barisal",
+            "district_name": "patuakhali",
+            "name": "Subidkhali",
+            "name_bn": "সুবিদখালী"
+          },
+
+
+দেরেন্দ, মাদারীপুর ছিলো, কিন্তু govt site list এ ডাসার  
+
+
+// মজার (!) ব্যাপার - জিয়ানগর থেকে ইন্দুরকানী
+ {
+            "id": 358,
+            "division_name": "barisal",
+            "district_name": "pirojpur",
+            "name": "Indurkani",
+            "name_bn": "ইন্দুরকানী"
+          }
+
