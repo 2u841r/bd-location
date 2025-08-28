@@ -11,14 +11,14 @@
         "name_bn": "ঢাকা",
         "subdistricts": [
           {
-            "id": 1,
+            "id": 801,
             "division_name": "dhaka",
             "district_name": "dhaka",
             "name": "Dhaka North City Corporation",
             "name_bn": "ঢাকা উত্তর সিটি কর্পোরেশন"
           },
           {
-            "id": 1,
+            "id": 802,
             "division_name": "dhaka",
             "district_name": "dhaka",
             "name": "Dhaka South City Corporation",
@@ -111,27 +111,26 @@
         "name_bn": "নারায়ণগঞ্জ",
         "subdistricts": [
           {
-            "id": 13,
+            "id": 11,
             "division_name": "dhaka",
             "district_name": "narayanganj",
             "name": "Narayanganj Sadar",
             "name_bn": "নারায়ণগঞ্জ সদর"
           },
           {
-            "id": 11,
+            "id": 12,
             "division_name": "dhaka",
             "district_name": "narayanganj",
             "name": "Araihazar",
             "name_bn": "আড়াইহাজার"
           },
           {
-            "id": 12,
+            "id": 13,
             "division_name": "dhaka",
             "district_name": "narayanganj",
             "name": "Bandar",
             "name_bn": "বন্দর"
           },
-
           {
             "id": 14,
             "division_name": "dhaka",
@@ -155,27 +154,26 @@
         "name_bn": "নরসিংদী",
         "subdistricts": [
           {
-            "id": 18,
+            "id": 16,
             "division_name": "dhaka",
             "district_name": "narsingdi",
             "name": "Narsingdi Sadar",
             "name_bn": "নরসিংদী সদর"
           },
           {
-            "id": 16,
+            "id": 17,
             "division_name": "dhaka",
             "district_name": "narsingdi",
             "name": "Belabo",
             "name_bn": "বেলাবো"
           },
           {
-            "id": 17,
+            "id": 18,
             "division_name": "dhaka",
             "district_name": "narsingdi",
             "name": "Monohardi",
             "name_bn": "মনোহরদী"
           },
-
           {
             "id": 19,
             "division_name": "dhaka",
@@ -206,90 +204,89 @@
         "name_bn": "টাঙ্গাইল",
         "subdistricts": [
           {
-            "id": 33,
+            "id": 22,
             "division_name": "dhaka",
             "district_name": "tangail",
             "name": "Tangail Sadar",
             "name_bn": "টাঙ্গাইল সদর"
           },
           {
-            "id": 22,
+            "id": 23,
             "division_name": "dhaka",
             "district_name": "tangail",
             "name": "Basail",
             "name_bn": "বাসাইল"
           },
           {
-            "id": 23,
+            "id": 24,
             "division_name": "dhaka",
             "district_name": "tangail",
             "name": "Bhuapur",
             "name_bn": "ভুয়াপুর"
           },
           {
-            "id": 24,
+            "id": 25,
             "division_name": "dhaka",
             "district_name": "tangail",
             "name": "Delduar",
             "name_bn": "দেলদুয়ার"
           },
           {
-            "id": 25,
+            "id": 26,
             "division_name": "dhaka",
             "district_name": "tangail",
             "name": "Dhanbari",
             "name_bn": "ধনবাড়ী"
           },
           {
-            "id": 26,
+            "id": 27,
             "division_name": "dhaka",
             "district_name": "tangail",
             "name": "Ghatail",
             "name_bn": "ঘাটাইল"
           },
           {
-            "id": 27,
+            "id": 28,
             "division_name": "dhaka",
             "district_name": "tangail",
             "name": "Gopalpur",
             "name_bn": "গোপালপুর"
           },
           {
-            "id": 28,
+            "id": 29,
             "division_name": "dhaka",
             "district_name": "tangail",
             "name": "Kalihati",
             "name_bn": "কালিহাতি"
           },
           {
-            "id": 29,
+            "id": 30,
             "division_name": "dhaka",
             "district_name": "tangail",
             "name": "Madhupur",
             "name_bn": "মধুপুর"
           },
           {
-            "id": 30,
+            "id": 31,
             "division_name": "dhaka",
             "district_name": "tangail",
             "name": "Mirzapur",
             "name_bn": "মির্জাপুর"
           },
           {
-            "id": 31,
+            "id": 32,
             "division_name": "dhaka",
             "district_name": "tangail",
             "name": "Nagarpur",
             "name_bn": "নাগরপুর"
           },
           {
-            "id": 32,
+            "id": 33,
             "division_name": "dhaka",
             "district_name": "tangail",
             "name": "Sakhipur",
             "name_bn": "সখিপুর"
           }
-
         ]
       },
       {
@@ -299,56 +296,56 @@
         "name_bn": "কিশোরগঞ্জ",
         "subdistricts": [
           {
-            "id": 41,
+            "id": 34,
             "division_name": "dhaka",
             "district_name": "kishoreganj",
             "name": "Kishoreganj Sadar",
             "name_bn": "কিশোরগঞ্জ সদর"
           },
           {
-            "id": 34,
+            "id": 35,
             "division_name": "dhaka",
             "district_name": "kishoreganj",
             "name": "Astagram",
             "name_bn": "আস্তাগ্রাম"
           },
           {
-            "id": 35,
+            "id": 36,
             "division_name": "dhaka",
             "district_name": "kishoreganj",
             "name": "Bajitpur",
             "name_bn": "বাজিতপুর"
           },
           {
-            "id": 36,
+            "id": 37,
             "division_name": "dhaka",
             "district_name": "kishoreganj",
             "name": "Bhairab",
             "name_bn": "ভৈরব"
           },
           {
-            "id": 37,
+            "id": 38,
             "division_name": "dhaka",
             "district_name": "kishoreganj",
             "name": "Hossainpur",
             "name_bn": "হোসেনপুর"
           },
           {
-            "id": 38,
+            "id": 39,
             "division_name": "dhaka",
             "district_name": "kishoreganj",
             "name": "Itna",
             "name_bn": "ইটনা"
           },
           {
-            "id": 39,
+            "id": 40,
             "division_name": "dhaka",
             "district_name": "kishoreganj",
             "name": "Karimganj",
             "name_bn": "করিমগঞ্জ"
           },
           {
-            "id": 40,
+            "id": 41,
             "division_name": "dhaka",
             "district_name": "kishoreganj",
             "name": "Katiadi",
@@ -398,34 +395,33 @@
         "name_bn": "মানিকগঞ্জ",
         "subdistricts": [
           {
-            "id": 50,
+            "id": 47,
             "division_name": "dhaka",
             "district_name": "manikganj",
             "name": "Manikganj Sadar",
             "name_bn": "মানিকগঞ্জ সদর"
           },
           {
-            "id": 47,
+            "id": 48,
             "division_name": "dhaka",
             "district_name": "manikganj",
             "name": "Daulatpur",
             "name_bn": "দৌলতপুর"
           },
           {
-            "id": 48,
+            "id": 49,
             "division_name": "dhaka",
             "district_name": "manikganj",
             "name": "Ghior",
             "name_bn": "ঘিওর"
           },
           {
-            "id": 49,
+            "id": 50,
             "division_name": "dhaka",
             "district_name": "manikganj",
             "name": "Harirampur",
             "name_bn": "হরিরামপুর"
           },
-
           {
             "id": 51,
             "division_name": "dhaka",
@@ -456,27 +452,26 @@
         "name_bn": "মুন্সিগঞ্জ",
         "subdistricts": [
           {
-            "id": 56,
+            "id": 54,
             "division_name": "dhaka",
             "district_name": "munshiganj",
             "name": "Munshiganj Sadar",
             "name_bn": "মুন্সিগঞ্জ সদর"
           },
           {
-            "id": 54,
+            "id": 55,
             "division_name": "dhaka",
             "district_name": "munshiganj",
             "name": "Gazaria",
             "name_bn": "গজারিয়া"
           },
           {
-            "id": 55,
+            "id": 56,
             "division_name": "dhaka",
             "district_name": "munshiganj",
             "name": "Lohajang",
             "name_bn": "লোহাজং"
           },
-
           {
             "id": 57,
             "division_name": "dhaka",
@@ -507,28 +502,28 @@
         "name_bn": "রাজবাড়ী",
         "subdistricts": [
           {
-            "id": 63,
+            "id": 60,
             "division_name": "dhaka",
             "district_name": "rajbari",
             "name": "Rajbari Sadar",
             "name_bn": "রাজবাড়ী সদর"
           },
           {
-            "id": 60,
+            "id": 61,
             "division_name": "dhaka",
             "district_name": "rajbari",
             "name": "Baliakandi",
             "name_bn": "বালিয়াকান্দি"
           },
           {
-            "id": 61,
+            "id": 62,
             "division_name": "dhaka",
             "district_name": "rajbari",
             "name": "Goalandaghat",
             "name_bn": "গোয়ালন্দঘাট"
           },
           {
-            "id": 62,
+            "id": 63,
             "division_name": "dhaka",
             "district_name": "rajbari",
             "name": "Pangsha",
@@ -550,42 +545,42 @@
         "name_bn": "শরীয়তপুর",
         "subdistricts": [
           {
-            "id": 70,
+            "id": 65,
             "division_name": "dhaka",
             "district_name": "shariatpur",
             "name": "Shariatpur Sadar",
             "name_bn": "শরিয়তপুর সদর"
           },
           {
-            "id": 65,
+            "id": 66,
             "division_name": "dhaka",
             "district_name": "shariatpur",
             "name": "Bhedarganj",
             "name_bn": "ভেদরগঞ্জ"
           },
           {
-            "id": 66,
+            "id": 67,
             "division_name": "dhaka",
             "district_name": "shariatpur",
             "name": "Damudya",
             "name_bn": "ডামুড্যা"
           },
           {
-            "id": 67,
+            "id": 68,
             "division_name": "dhaka",
             "district_name": "shariatpur",
             "name": "Gosairhat",
             "name_bn": "গোসাইরহাট"
           },
           {
-            "id": 68,
+            "id": 69,
             "division_name": "dhaka",
             "district_name": "shariatpur",
             "name": "Jajira",
             "name_bn": "জাজিরা"
           },
           {
-            "id": 69,
+            "id": 70,
             "division_name": "dhaka",
             "district_name": "shariatpur",
             "name": "Naria",
@@ -600,63 +595,63 @@
         "name_bn": "ফরিদপুর",
         "subdistricts": [
           {
-            "id": 85,
+            "id": 71,
             "division_name": "dhaka",
             "district_name": "faridpur",
             "name": "Faridpur Sadar",
             "name_bn": "ফরিদপুর সদর"
           },
           {
-            "id": 81,
+            "id": 72,
             "division_name": "dhaka",
             "district_name": "faridpur",
             "name": "Alfadanga",
             "name_bn": "আলফাডাঙ্গা"
           },
           {
-            "id": 82,
+            "id": 73,
             "division_name": "dhaka",
             "district_name": "faridpur",
             "name": "Bhanga",
             "name_bn": "ভাঙ্গা"
           },
           {
-            "id": 83,
+            "id": 74,
             "division_name": "dhaka",
             "district_name": "faridpur",
             "name": "Boalmari",
             "name_bn": "বোয়ালমারী"
           },
           {
-            "id": 84,
+            "id": 75,
             "division_name": "dhaka",
             "district_name": "faridpur",
             "name": "Charbhadrasan",
             "name_bn": "চরভদ্রাসন"
           },
           {
-            "id": 86,
+            "id": 76,
             "division_name": "dhaka",
             "district_name": "faridpur",
             "name": "Madhukhali",
             "name_bn": "মধুখালী"
           },
           {
-            "id": 87,
+            "id": 77,
             "division_name": "dhaka",
             "district_name": "faridpur",
             "name": "Nagarkanda",
             "name_bn": "নগরকান্দা"
           },
           {
-            "id": 88,
+            "id": 78,
             "division_name": "dhaka",
             "district_name": "faridpur",
             "name": "Sadarpur",
             "name_bn": "সদরপুর"
           },
           {
-            "id": 89,
+            "id": 79,
             "division_name": "dhaka",
             "district_name": "faridpur",
             "name": "Saltha",
@@ -671,36 +666,35 @@
         "name_bn": "মাদারীপুর",
         "subdistricts": [
           {
-            "id": 73,
+            "id": 80,
             "division_name": "dhaka",
             "district_name": "madaripur",
             "name": "Madaripur Sadar",
             "name_bn": "মাদারীপুর সদর"
           },
           {
-            "id": 71,
+            "id": 81,
             "division_name": "dhaka",
             "district_name": "madaripur",
             "name": "Dasar",
             "name_bn": "ডাসার"
           },
           {
-            "id": 72,
+            "id": 82,
             "division_name": "dhaka",
             "district_name": "madaripur",
             "name": "Kalkini",
             "name_bn": "কালকিনি"
           },
-
           {
-            "id": 74,
+            "id": 83,
             "division_name": "dhaka",
             "district_name": "madaripur",
             "name": "Rajoir",
             "name_bn": "রাজৈর"
           },
           {
-            "id": 75,
+            "id": 84,
             "division_name": "dhaka",
             "district_name": "madaripur",
             "name": "Shibchar",
@@ -715,35 +709,35 @@
         "name_bn": "গোপালগঞ্জ",
         "subdistricts": [
           {
-            "id": 76,
+            "id": 85,
             "division_name": "dhaka",
             "district_name": "gopalganj",
             "name": "Gopalganj Sadar",
             "name_bn": "গোপালগঞ্জ সদর"
           },
           {
-            "id": 77,
+            "id": 86,
             "division_name": "dhaka",
             "district_name": "gopalganj",
             "name": "Kashiani",
             "name_bn": "কাশিয়ানী"
           },
           {
-            "id": 78,
+            "id": 87,
             "division_name": "dhaka",
             "district_name": "gopalganj",
             "name": "Kotalipara",
             "name_bn": "কোটালীপাড়া"
           },
           {
-            "id": 79,
+            "id": 88,
             "division_name": "dhaka",
             "district_name": "gopalganj",
             "name": "Muksudpur",
             "name_bn": "মুকসুদপুর"
           },
           {
-            "id": 80,
+            "id": 89,
             "division_name": "dhaka",
             "district_name": "gopalganj",
             "name": "Tungipara",
@@ -765,7 +759,7 @@
         "name_bn": "চট্টগ্রাম",
         "subdistricts": [
           {
-            "id": 90,
+            "id": 803,
             "division_name": "chittagong",
             "district_name": "chittagong",
             "name": "Cittagong City Corporation",
@@ -870,7 +864,7 @@
             "name_bn": "সীতাকুণ্ড"
           },
           {
-            "id": 103,
+            "id": 104,
             "division_name": "chittagong",
             "district_name": "chittagong",
             "name": "karnafuli",
@@ -892,50 +886,49 @@
             "name_bn": "কক্সবাজার সদর"
           },
           {
-            "id": 104,
+            "id": 106,
             "division_name": "chittagong",
             "district_name": "cox's bazar",
             "name": "Chakaria",
             "name_bn": "চকরিয়া"
           },
-
           {
-            "id": 106,
+            "id": 107,
             "division_name": "chittagong",
             "district_name": "cox's bazar",
             "name": "Kutubdia",
             "name_bn": "কুতুবদিয়া"
           },
           {
-            "id": 107,
+            "id": 108,
             "division_name": "chittagong",
             "district_name": "cox's bazar",
             "name": "Maheshkhali",
             "name_bn": "মহেশখালী"
           },
           {
-            "id": 108,
+            "id": 109,
             "division_name": "chittagong",
             "district_name": "cox's bazar",
             "name": "Ramu",
             "name_bn": "রামু"
           },
           {
-            "id": 109,
+            "id": 110,
             "division_name": "chittagong",
             "district_name": "cox's bazar",
             "name": "Teknaf",
             "name_bn": "টেকনাফ"
           },
           {
-            "id": 110,
+            "id": 111,
             "division_name": "chittagong",
             "district_name": "cox's bazar",
             "name": "Ukhia",
             "name_bn": "উখিয়া"
           },
           {
-            "id": 111,
+            "id": 112,
             "division_name": "chittagong",
             "district_name": "cox's bazar",
             "name": "Pekua",
@@ -950,120 +943,119 @@
         "name_bn": "কুমিল্লা",
         "subdistricts": [
           {
-            "id": 123,
+            "id": 113,
             "division_name": "chittagong",
             "district_name": "comilla",
             "name": "Comilla Sadar",
             "name_bn": "কুমিল্লা সদর"
           },
           {
-            "id": 112,
+            "id": 114,
             "division_name": "chittagong",
             "district_name": "comilla",
             "name": "Barura",
             "name_bn": "বরুড়া"
           },
           {
-            "id": 113,
+            "id": 115,
             "division_name": "chittagong",
             "district_name": "comilla",
             "name": "Brahmanpara",
             "name_bn": "ব্রাহ্মণপাড়া"
           },
           {
-            "id": 114,
+            "id": 116,
             "division_name": "chittagong",
             "district_name": "comilla",
             "name": "Burichang",
             "name_bn": "বুড়িচং"
           },
           {
-            "id": 115,
+            "id": 117,
             "division_name": "chittagong",
             "district_name": "comilla",
             "name": "Chandina",
             "name_bn": "চান্দিনা"
           },
           {
-            "id": 116,
+            "id": 118,
             "division_name": "chittagong",
             "district_name": "comilla",
             "name": "Chauddagram",
             "name_bn": "চৌদ্দগ্রাম"
           },
           {
-            "id": 117,
+            "id": 119,
             "division_name": "chittagong",
             "district_name": "comilla",
             "name": "Daudkandi",
             "name_bn": "দাউদকান্দি"
           },
           {
-            "id": 118,
+            "id": 120,
             "division_name": "chittagong",
             "district_name": "comilla",
             "name": "Debidwar",
             "name_bn": "দেবিদ্বার"
           },
           {
-            "id": 119,
+            "id": 121,
             "division_name": "chittagong",
             "district_name": "comilla",
             "name": "Homna",
             "name_bn": "হোমনা"
           },
           {
-            "id": 120,
+            "id": 122,
             "division_name": "chittagong",
             "district_name": "comilla",
             "name": "Laksam",
             "name_bn": "লাকসাম"
           },
           {
-            "id": 121,
+            "id": 123,
             "division_name": "chittagong",
             "district_name": "comilla",
             "name": "Muradnagar",
             "name_bn": "মুরাদনগর"
           },
           {
-            "id": 122,
+            "id": 124,
             "division_name": "chittagong",
             "district_name": "comilla",
             "name": "Nangalkot",
             "name_bn": "নাঙ্গালকোট"
           },
-
           {
-            "id": 124,
+            "id": 125,
             "division_name": "chittagong",
             "district_name": "comilla",
             "name": "Meghna",
             "name_bn": "মেঘনা"
           },
           {
-            "id": 125,
+            "id": 126,
             "division_name": "chittagong",
             "district_name": "comilla",
             "name": "Monohargonj",
             "name_bn": "মনোহরগঞ্জ"
           },
           {
-            "id": 126,
+            "id": 127,
             "division_name": "chittagong",
             "district_name": "comilla",
             "name": "Titas",
             "name_bn": "তিতাস"
           },
           {
-            "id": 127,
+            "id": 128,
             "division_name": "chittagong",
             "district_name": "comilla",
             "name": "Comilla Sadar South",
             "name_bn": "কুমিল্লা সদর দক্ষিণ"
           },
           {
-            "id": 127,
+            "id": 129,
             "division_name": "chittagong",
             "district_name": "comilla",
             "name": "Lalmai",
@@ -1078,56 +1070,56 @@
         "name_bn": "চাঁদপুর",
         "subdistricts": [
           {
-            "id": 128,
+            "id": 130,
             "division_name": "chittagong",
             "district_name": "chandpur",
             "name": "Chandpur Sadar",
             "name_bn": "চাঁদপুর সদর"
           },
           {
-            "id": 129,
+            "id": 131,
             "division_name": "chittagong",
             "district_name": "chandpur",
             "name": "Faridganj",
             "name_bn": "ফরিদগঞ্জ"
           },
           {
-            "id": 130,
+            "id": 132,
             "division_name": "chittagong",
             "district_name": "chandpur",
             "name": "Haimchar",
             "name_bn": "হাইমচর"
           },
           {
-            "id": 131,
+            "id": 133,
             "division_name": "chittagong",
             "district_name": "chandpur",
             "name": "Haziganj",
             "name_bn": "হাজীগঞ্জ"
           },
           {
-            "id": 132,
+            "id": 134,
             "division_name": "chittagong",
             "district_name": "chandpur",
             "name": "Kachua",
             "name_bn": "কচুয়া"
           },
           {
-            "id": 133,
+            "id": 135,
             "division_name": "chittagong",
             "district_name": "chandpur",
             "name": "Matlab North",
             "name_bn": "মতলব উত্তর"
           },
           {
-            "id": 134,
+            "id": 136,
             "division_name": "chittagong",
             "district_name": "chandpur",
             "name": "Matlab South",
             "name_bn": "মতলব দক্ষিণ"
           },
           {
-            "id": 135,
+            "id": 137,
             "division_name": "chittagong",
             "district_name": "chandpur",
             "name": "Shahrasti",
@@ -1142,35 +1134,35 @@
         "name_bn": "লক্ষ্মীপুর",
         "subdistricts": [
           {
-            "id": 136,
+            "id": 138,
             "division_name": "chittagong",
             "district_name": "lakshmipur",
             "name": "Lakshmipur Sadar",
             "name_bn": "লক্ষ্মীপুর সদর"
           },
           {
-            "id": 137,
+            "id": 139,
             "division_name": "chittagong",
             "district_name": "lakshmipur",
             "name": "Raipur",
             "name_bn": "রায়পুর"
           },
           {
-            "id": 138,
+            "id": 140,
             "division_name": "chittagong",
             "district_name": "lakshmipur",
             "name": "Ramganj",
             "name_bn": "রামগঞ্জ"
           },
           {
-            "id": 139,
+            "id": 141,
             "division_name": "chittagong",
             "district_name": "lakshmipur",
             "name": "Ramgati",
             "name_bn": "রামগতি"
           },
           {
-            "id": 140,
+            "id": 142,
             "division_name": "chittagong",
             "district_name": "lakshmipur",
             "name": "Kamalnagar",
@@ -1185,70 +1177,70 @@
         "name_bn": "নোয়াখালী",
         "subdistricts": [
           {
-            "id": 147,
+            "id": 143,
             "division_name": "chittagong",
             "district_name": "noakhali",
             "name": "Noakhali Sadar",
             "name_bn": "নোয়াখালী সদর"
           },
           {
-            "id": 141,
+            "id": 144,
             "division_name": "chittagong",
             "district_name": "noakhali",
             "name": "Begumganj",
             "name_bn": "বেগমগঞ্জ"
           },
           {
-            "id": 142,
+            "id": 145,
             "division_name": "chittagong",
             "district_name": "noakhali",
             "name": "Chatkhil",
             "name_bn": "চাটখিল"
           },
           {
-            "id": 143,
+            "id": 146,
             "division_name": "chittagong",
             "district_name": "noakhali",
             "name": "Companiganj",
             "name_bn": "কোম্পানীগঞ্জ"
           },
           {
-            "id": 144,
+            "id": 147,
             "division_name": "chittagong",
             "district_name": "noakhali",
             "name": "Hatiya",
             "name_bn": "হাতিয়া"
           },
           {
-            "id": 145,
+            "id": 148,
             "division_name": "chittagong",
             "district_name": "noakhali",
             "name": "Kabirhat",
             "name_bn": "কবিরহাট"
           },
           {
-            "id": 146,
+            "id": 149,
             "division_name": "chittagong",
             "district_name": "noakhali",
             "name": "Khalifaerhat",
             "name_bn": "খালিফারহাট"
           },
           {
-            "id": 148,
+            "id": 150,
             "division_name": "chittagong",
             "district_name": "noakhali",
             "name": "Senbagh",
             "name_bn": "সেনবাগ"
           },
           {
-            "id": 149,
+            "id": 151,
             "division_name": "chittagong",
             "district_name": "noakhali",
             "name": "Subarnachar",
             "name_bn": "সুবর্ণচর"
           },
           {
-            "id": 149,
+            "id": 152,
             "division_name": "chittagong",
             "district_name": "noakhali",
             "name": "Sonaimuri",
@@ -1263,43 +1255,42 @@
         "name_bn": "ফেনী",
         "subdistricts": [
           {
-            "id": 152,
+            "id": 153,
             "division_name": "chittagong",
             "district_name": "feni",
             "name": "Feni Sadar",
             "name_bn": "ফেনী সদর"
           },
           {
-            "id": 150,
+            "id": 154,
             "division_name": "chittagong",
             "district_name": "feni",
             "name": "Chhagalnaiya",
             "name_bn": "ছাগলনাইয়া"
           },
           {
-            "id": 151,
+            "id": 155,
             "division_name": "chittagong",
             "district_name": "feni",
             "name": "Daganbhuiyan",
             "name_bn": "দাগানভূইয়া"
           },
-
           {
-            "id": 153,
+            "id": 156,
             "division_name": "chittagong",
             "district_name": "feni",
             "name": "Parshuram",
             "name_bn": "পরশুরাম"
           },
           {
-            "id": 154,
+            "id": 157,
             "division_name": "chittagong",
             "district_name": "feni",
             "name": "Sonagazi",
             "name_bn": "সোনাগাজী"
           },
           {
-            "id": 155,
+            "id": 158,
             "division_name": "chittagong",
             "district_name": "feni",
             "name": "Fulgazi",
@@ -1321,57 +1312,56 @@
             "name_bn": "ব্রাহ্মণবাড়িয়া সদর"
           },
           {
-            "id": 156,
+            "id": 160,
             "division_name": "chittagong",
             "district_name": "brahmanbaria",
             "name": "Akhaura",
             "name_bn": "আখাউড়া"
           },
           {
-            "id": 157,
+            "id": 161,
             "division_name": "chittagong",
             "district_name": "brahmanbaria",
             "name": "Bancharampur",
             "name_bn": "বাঞ্ছারামপুর"
           },
           {
-            "id": 158,
+            "id": 162,
             "division_name": "chittagong",
             "district_name": "brahmanbaria",
             "name": "Bijoynagar",
             "name_bn": "বিজয়নগর"
           },
-
           {
-            "id": 160,
+            "id": 163,
             "division_name": "chittagong",
             "district_name": "brahmanbaria",
             "name": "Kasba",
             "name_bn": "কসবা"
           },
           {
-            "id": 161,
+            "id": 164,
             "division_name": "chittagong",
             "district_name": "brahmanbaria",
             "name": "Nabinagar",
             "name_bn": "নবীনগর"
           },
           {
-            "id": 162,
+            "id": 165,
             "division_name": "chittagong",
             "district_name": "brahmanbaria",
             "name": "Nasirnagar",
             "name_bn": "নাসিরনগর"
           },
           {
-            "id": 163,
+            "id": 166,
             "division_name": "chittagong",
             "district_name": "brahmanbaria",
             "name": "Sarail",
             "name_bn": "সরাইল"
           },
           {
-            "id": 164,
+            "id": 167,
             "division_name": "chittagong",
             "district_name": "brahmanbaria",
             "name": "Ashuganj",
@@ -1386,71 +1376,70 @@
         "name_bn": "রাঙ্গামাটি",
         "subdistricts": [
           {
-            "id": 173,
+            "id": 168,
             "division_name": "chittagong",
             "district_name": "rangamati",
             "name": "Rangamati Sadar",
             "name_bn": "রাঙ্গামাটি সদর"
           },
           {
-            "id": 165,
+            "id": 169,
             "division_name": "chittagong",
             "district_name": "rangamati",
             "name": "Bagaichhari",
             "name_bn": "বাঘাইছড়ি"
           },
           {
-            "id": 166,
+            "id": 170,
             "division_name": "chittagong",
             "district_name": "rangamati",
             "name": "Barkal",
             "name_bn": "বরকল"
           },
           {
-            "id": 167,
+            "id": 171,
             "division_name": "chittagong",
             "district_name": "rangamati",
             "name": "Kawkhali",
             "name_bn": "কাউখালী"
           },
           {
-            "id": 168,
+            "id": 172,
             "division_name": "chittagong",
             "district_name": "rangamati",
             "name": "Belaichhari",
             "name_bn": "বিলাইছড়ি"
           },
           {
-            "id": 169,
+            "id": 173,
             "division_name": "chittagong",
             "district_name": "rangamati",
             "name": "Juraichhari",
             "name_bn": "জুরাছড়ি"
           },
           {
-            "id": 170,
+            "id": 174,
             "division_name": "chittagong",
             "district_name": "rangamati",
             "name": "Langadu",
             "name_bn": "লংগদু"
           },
           {
-            "id": 171,
+            "id": 175,
             "division_name": "chittagong",
             "district_name": "rangamati",
             "name": "Nannerchar",
             "name_bn": "নান্নেরচর"
           },
           {
-            "id": 172,
+            "id": 176,
             "division_name": "chittagong",
             "district_name": "rangamati",
             "name": "Rajasthali",
             "name_bn": "রাজস্থলী"
           },
-
           {
-            "id": 174,
+            "id": 177,
             "division_name": "chittagong",
             "district_name": "rangamati",
             "name": "Kaptai",
@@ -1465,64 +1454,63 @@
         "name_bn": "খাগড়াছড়ি",
         "subdistricts": [
           {
-            "id": 176,
+            "id": 178,
             "division_name": "chittagong",
             "district_name": "khagrachhari",
             "name": "Khagrachhari Sadar",
             "name_bn": "খাগড়াছড়ি সদর"
           },
           {
-            "id": 175,
+            "id": 179,
             "division_name": "chittagong",
             "district_name": "khagrachhari",
             "name": "Dighinala",
             "name_bn": "দিঘীনালা"
           },
-
           {
-            "id": 177,
+            "id": 180,
             "division_name": "chittagong",
             "district_name": "khagrachhari",
             "name": "Lakshmichhari",
             "name_bn": "লক্ষ্মীছড়ি"
           },
           {
-            "id": 178,
+            "id": 181,
             "division_name": "chittagong",
             "district_name": "khagrachhari",
             "name": "Mohalchari",
             "name_bn": "মহালছড়ি"
           },
           {
-            "id": 179,
+            "id": 182,
             "division_name": "chittagong",
             "district_name": "khagrachhari",
             "name": "Manikchhari",
             "name_bn": "মানিকছড়ি"
           },
           {
-            "id": 180,
+            "id": 183,
             "division_name": "chittagong",
             "district_name": "khagrachhari",
             "name": "Matiranga",
             "name_bn": "মাটিরাঙ্গা"
           },
           {
-            "id": 181,
+            "id": 184,
             "division_name": "chittagong",
             "district_name": "khagrachhari",
             "name": "Panchhari",
             "name_bn": "পানছড়ি"
           },
           {
-            "id": 182,
+            "id": 185,
             "division_name": "chittagong",
             "district_name": "khagrachhari",
             "name": "Ramgarh",
             "name_bn": "রামগড়"
           },
           {
-            "id": 182,
+            "id": 186,
             "division_name": "chittagong",
             "district_name": "khagrachhari",
             "name": "Guimara",
@@ -1537,50 +1525,49 @@
         "name_bn": "বান্দরবান",
         "subdistricts": [
           {
-            "id": 184,
+            "id": 187,
             "division_name": "chittagong",
             "district_name": "bandarban",
             "name": "Bandarban Sadar",
             "name_bn": "বান্দরবান সদর"
           },
           {
-            "id": 183,
+            "id": 188,
             "division_name": "chittagong",
             "district_name": "bandarban",
             "name": "Alikadam",
             "name_bn": "আলীকদম"
           },
-
           {
-            "id": 185,
+            "id": 189,
             "division_name": "chittagong",
             "district_name": "bandarban",
             "name": "Lama",
             "name_bn": "লামা"
           },
           {
-            "id": 186,
+            "id": 190,
             "division_name": "chittagong",
             "district_name": "bandarban",
             "name": "Naikhongchhari",
             "name_bn": "নাইক্ষ্যংছড়ি"
           },
           {
-            "id": 187,
+            "id": 191,
             "division_name": "chittagong",
             "district_name": "bandarban",
             "name": "Rowangchhari",
             "name_bn": "রোয়াংছড়ি"
           },
           {
-            "id": 188,
+            "id": 192,
             "division_name": "chittagong",
             "district_name": "bandarban",
             "name": "Ruma",
             "name_bn": "রুমা"
           },
           {
-            "id": 189,
+            "id": 193,
             "division_name": "chittagong",
             "district_name": "bandarban",
             "name": "Thanchi",
@@ -1602,70 +1589,70 @@
         "name_bn": "রাজশাহী",
         "subdistricts": [
           {
-            "id": 190,
+            "id": 804,
             "division_name": "rajshahi",
             "district_name": "rajshahi",
             "name": "Rajshahi City Corporation",
             "name_bn": "রাজশাহী সিটি কর্পোরেশন"
           },
           {
-            "id": 190,
+            "id": 194,
             "division_name": "rajshahi",
             "district_name": "rajshahi",
             "name": "Bagha",
             "name_bn": "বাঘা"
           },
           {
-            "id": 191,
+            "id": 195,
             "division_name": "rajshahi",
             "district_name": "rajshahi",
             "name": "Bagmara",
             "name_bn": "বাগমারা"
           },
           {
-            "id": 192,
+            "id": 196,
             "division_name": "rajshahi",
             "district_name": "rajshahi",
             "name": "Charghat",
             "name_bn": "চারঘাট"
           },
           {
-            "id": 193,
+            "id": 197,
             "division_name": "rajshahi",
             "district_name": "rajshahi",
             "name": "Durgapur",
             "name_bn": "দুর্গাপুর"
           },
           {
-            "id": 194,
+            "id": 198,
             "division_name": "rajshahi",
             "district_name": "rajshahi",
             "name": "Godagari",
             "name_bn": "গোদাগাড়ী"
           },
           {
-            "id": 195,
+            "id": 199,
             "division_name": "rajshahi",
             "district_name": "rajshahi",
             "name": "Mohanpur",
             "name_bn": "মোহনপুর"
           },
           {
-            "id": 196,
+            "id": 200,
             "division_name": "rajshahi",
             "district_name": "rajshahi",
             "name": "Paba",
             "name_bn": "পবা"
           },
           {
-            "id": 197,
+            "id": 201,
             "division_name": "rajshahi",
             "district_name": "rajshahi",
             "name": "Puthia",
             "name_bn": "পুঠিয়া"
           },
           {
-            "id": 198,
+            "id": 202,
             "division_name": "rajshahi",
             "district_name": "rajshahi",
             "name": "Tanore",
@@ -1680,85 +1667,84 @@
         "name_bn": "বগুড়া",
         "subdistricts": [
           {
-            "id": 200,
+            "id": 203,
             "division_name": "rajshahi",
             "district_name": "bogra",
             "name": "Bogra Sadar",
             "name_bn": "বগুড়া সদর"
           },
           {
-            "id": 199,
+            "id": 204,
             "division_name": "rajshahi",
             "district_name": "bogra",
             "name": "Adamdighi",
             "name_bn": "আদমদিঘী"
           },
-
           {
-            "id": 201,
+            "id": 205,
             "division_name": "rajshahi",
             "district_name": "bogra",
             "name": "Dhunat",
             "name_bn": "ধুনট"
           },
           {
-            "id": 202,
+            "id": 206,
             "division_name": "rajshahi",
             "district_name": "bogra",
             "name": "Dupchanchia",
             "name_bn": "দুপচাঁচিয়া"
           },
           {
-            "id": 203,
+            "id": 207,
             "division_name": "rajshahi",
             "district_name": "bogra",
             "name": "Gabtali",
             "name_bn": "গাবতলী"
           },
           {
-            "id": 204,
+            "id": 208,
             "division_name": "rajshahi",
             "district_name": "bogra",
             "name": "Kahaloo",
             "name_bn": "কাহালু"
           },
           {
-            "id": 205,
+            "id": 209,
             "division_name": "rajshahi",
             "district_name": "bogra",
             "name": "Nandigram",
             "name_bn": "নন্দিগ্রাম"
           },
           {
-            "id": 206,
+            "id": 210,
             "division_name": "rajshahi",
             "district_name": "bogra",
             "name": "Sariakandi",
             "name_bn": "সারিয়াকান্দি"
           },
           {
-            "id": 207,
+            "id": 211,
             "division_name": "rajshahi",
             "district_name": "bogra",
             "name": "Shajahanpur",
             "name_bn": "শাজাহানপুর"
           },
           {
-            "id": 208,
+            "id": 212,
             "division_name": "rajshahi",
             "district_name": "bogra",
             "name": "Sherpur",
             "name_bn": "শেরপুর"
           },
           {
-            "id": 209,
+            "id": 213,
             "division_name": "rajshahi",
             "district_name": "bogra",
             "name": "Shibganj",
             "name_bn": "শিবগঞ্জ"
           },
           {
-            "id": 210,
+            "id": 214,
             "division_name": "rajshahi",
             "district_name": "bogra",
             "name": "Sonatala",
@@ -1773,64 +1759,63 @@
         "name_bn": "পাবনা",
         "subdistricts": [
           {
-            "id": 217,
+            "id": 215,
             "division_name": "rajshahi",
             "district_name": "pabna",
             "name": "Pabna Sadar",
             "name_bn": "পাবনা সদর"
           },
           {
-            "id": 211,
+            "id": 216,
             "division_name": "rajshahi",
             "district_name": "pabna",
             "name": "Atgharia",
             "name_bn": "আটঘরিয়া"
           },
           {
-            "id": 212,
+            "id": 217,
             "division_name": "rajshahi",
             "district_name": "pabna",
             "name": "Bera",
             "name_bn": "বেড়া"
           },
           {
-            "id": 213,
+            "id": 218,
             "division_name": "rajshahi",
             "district_name": "pabna",
             "name": "Bhangura",
             "name_bn": "ভাঙ্গুড়া"
           },
           {
-            "id": 214,
+            "id": 219,
             "division_name": "rajshahi",
             "district_name": "pabna",
             "name": "Chatmohar",
             "name_bn": "চাটমোহর"
           },
           {
-            "id": 215,
+            "id": 220,
             "division_name": "rajshahi",
             "district_name": "pabna",
             "name": "Faridpur",
             "name_bn": "ফরিদপুর"
           },
           {
-            "id": 216,
+            "id": 221,
             "division_name": "rajshahi",
             "district_name": "pabna",
             "name": "Ishwardi",
             "name_bn": "ঈশ্বরদী"
           },
-
           {
-            "id": 218,
+            "id": 222,
             "division_name": "rajshahi",
             "district_name": "pabna",
             "name": "Santhia",
             "name_bn": "সাঁথিয়া"
           },
           {
-            "id": 219,
+            "id": 223,
             "division_name": "rajshahi",
             "district_name": "pabna",
             "name": "Sujanagar",
@@ -1845,64 +1830,63 @@
         "name_bn": "সিরাজগঞ্জ",
         "subdistricts": [
           {
-            "id": 226,
+            "id": 224,
             "division_name": "rajshahi",
             "district_name": "sirajganj",
             "name": "Sirajganj Sadar",
             "name_bn": "সিরাজগঞ্জ সদর"
           },
           {
-            "id": 220,
+            "id": 225,
             "division_name": "rajshahi",
             "district_name": "sirajganj",
             "name": "Belkuchi",
             "name_bn": "বেলকুচি"
           },
           {
-            "id": 221,
+            "id": 226,
             "division_name": "rajshahi",
             "district_name": "sirajganj",
             "name": "Chauhali",
             "name_bn": "চৌহালী"
           },
           {
-            "id": 222,
+            "id": 227,
             "division_name": "rajshahi",
             "district_name": "sirajganj",
             "name": "Kamarkhanda",
             "name_bn": "কামারখন্দ"
           },
           {
-            "id": 223,
+            "id": 228,
             "division_name": "rajshahi",
             "district_name": "sirajganj",
             "name": "Kazipur",
             "name_bn": "কাজীপুর"
           },
           {
-            "id": 224,
+            "id": 229,
             "division_name": "rajshahi",
             "district_name": "sirajganj",
             "name": "Raiganj",
             "name_bn": "রায়গঞ্জ"
           },
           {
-            "id": 225,
+            "id": 230,
             "division_name": "rajshahi",
             "district_name": "sirajganj",
             "name": "Shahjadpur",
             "name_bn": "শাহজাদপুর"
           },
-
           {
-            "id": 227,
+            "id": 231,
             "division_name": "rajshahi",
             "district_name": "sirajganj",
             "name": "Tarash",
             "name_bn": "তাড়াশ"
           },
           {
-            "id": 228,
+            "id": 232,
             "division_name": "rajshahi",
             "district_name": "sirajganj",
             "name": "Ullahpara",
@@ -1924,43 +1908,42 @@
             "name_bn": "নাটোর সদর"
           },
           {
-            "id": 229,
+            "id": 234,
             "division_name": "rajshahi",
             "district_name": "natore",
             "name": "Baraigram",
             "name_bn": "বড়াইগ্রাম"
           },
           {
-            "id": 230,
+            "id": 235,
             "division_name": "rajshahi",
             "district_name": "natore",
             "name": "Bagatipara",
             "name_bn": "বাগাতিপাড়া"
           },
           {
-            "id": 231,
+            "id": 236,
             "division_name": "rajshahi",
             "district_name": "natore",
             "name": "Gurudaspur",
             "name_bn": "গুরুদাসপুর"
           },
           {
-            "id": 232,
+            "id": 237,
             "division_name": "rajshahi",
             "district_name": "natore",
             "name": "Lalpur",
             "name_bn": "লালপুর"
           },
-
           {
-            "id": 234,
+            "id": 238,
             "division_name": "rajshahi",
             "district_name": "natore",
             "name": "Singra",
             "name_bn": "সিংড়া"
           },
           {
-            "id": 235,
+            "id": 239,
             "division_name": "rajshahi",
             "district_name": "natore",
             "name": "Naldanga",
@@ -1975,36 +1958,35 @@
         "name_bn": "জয়পুরহাট",
         "subdistricts": [
           {
-            "id": 248,
+            "id": 240,
             "division_name": "rajshahi",
             "district_name": "joypurhat",
             "name": "Joypurhat Sadar",
             "name_bn": "জয়পুরহাট সদর"
           },
           {
-            "id": 247,
+            "id": 241,
             "division_name": "rajshahi",
             "district_name": "joypurhat",
             "name": "Akkelpur",
             "name_bn": "আক্কেলপুর"
           },
-
           {
-            "id": 249,
+            "id": 242,
             "division_name": "rajshahi",
             "district_name": "joypurhat",
             "name": "Kalai",
             "name_bn": "কালাই"
           },
           {
-            "id": 250,
+            "id": 243,
             "division_name": "rajshahi",
             "district_name": "joypurhat",
             "name": "Khetlal",
             "name_bn": "খেতলাল"
           },
           {
-            "id": 251,
+            "id": 244,
             "division_name": "rajshahi",
             "district_name": "joypurhat",
             "name": "Panchbibi",
@@ -2019,36 +2001,35 @@
         "name_bn": "চাঁপাইনবাবগঞ্জ",
         "subdistricts": [
           {
-            "id": 255,
+            "id": 245,
             "division_name": "rajshahi",
             "district_name": "chapainawabganj",
             "name": "Chapainawabganj Sadar",
             "name_bn": "চাঁপাইনবাবগঞ্জ সদর"
           },
           {
-            "id": 252,
+            "id": 246,
             "division_name": "rajshahi",
             "district_name": "chapainawabganj",
             "name": "Bholahat",
             "name_bn": "ভোলাহাট"
           },
           {
-            "id": 253,
+            "id": 247,
             "division_name": "rajshahi",
             "district_name": "chapainawabganj",
             "name": "Gomastapur",
             "name_bn": "গোমস্তাপুর"
           },
           {
-            "id": 254,
+            "id": 248,
             "division_name": "rajshahi",
             "district_name": "chapainawabganj",
             "name": "Nachole",
             "name_bn": "নাচোল"
           },
-
           {
-            "id": 256,
+            "id": 249,
             "division_name": "rajshahi",
             "district_name": "chapainawabganj",
             "name": "Shibganj",
@@ -2063,78 +2044,77 @@
         "name_bn": "নওগাঁ",
         "subdistricts": [
           {
-            "id": 241,
+            "id": 250,
             "division_name": "rajshahi",
             "district_name": "naogaon",
             "name": "Naogaon Sadar",
             "name_bn": "নওগাঁ সদর"
           },
           {
-            "id": 236,
+            "id": 251,
             "division_name": "rajshahi",
             "district_name": "naogaon",
             "name": "Atrai",
             "name_bn": "আত্রাই"
           },
           {
-            "id": 237,
+            "id": 252,
             "division_name": "rajshahi",
             "district_name": "naogaon",
             "name": "Badalgachhi",
             "name_bn": "বদলগাছী"
           },
           {
-            "id": 238,
+            "id": 253,
             "division_name": "rajshahi",
             "district_name": "naogaon",
             "name": "Manda",
             "name_bn": "মান্দা"
           },
           {
-            "id": 239,
+            "id": 254,
             "division_name": "rajshahi",
             "district_name": "naogaon",
             "name": "Dhamoirhat",
             "name_bn": "ধামইরহাট"
           },
           {
-            "id": 240,
+            "id": 255,
             "division_name": "rajshahi",
             "district_name": "naogaon",
             "name": "Mahadevpur",
             "name_bn": "মহাদেবপুর"
           },
-
           {
-            "id": 242,
+            "id": 256,
             "division_name": "rajshahi",
             "district_name": "naogaon",
             "name": "Niamatpur",
             "name_bn": "নিয়ামতপুর"
           },
           {
-            "id": 243,
+            "id": 257,
             "division_name": "rajshahi",
             "district_name": "naogaon",
             "name": "Patnitala",
             "name_bn": "পত্নিতলা"
           },
           {
-            "id": 244,
+            "id": 258,
             "division_name": "rajshahi",
             "district_name": "naogaon",
             "name": "Porsha",
             "name_bn": "পোরশা"
           },
           {
-            "id": 245,
+            "id": 259,
             "division_name": "rajshahi",
             "district_name": "naogaon",
             "name": "Raninagar",
             "name_bn": "রাণীনগর"
           },
           {
-            "id": 246,
+            "id": 260,
             "division_name": "rajshahi",
             "district_name": "naogaon",
             "name": "Sapahar",
@@ -2156,70 +2136,70 @@
         "name_bn": "খুলনা",
         "subdistricts": [
           {
-            "id": 266,
+            "id": 805,
             "division_name": "khulna",
             "district_name": "khulna",
             "name": "Khulna City Corporation",
             "name_bn": "খুলনা সিটি কর্পোরেশন"
           },
           {
-            "id": 257,
+            "id": 261,
             "division_name": "khulna",
             "district_name": "khulna",
             "name": "Batiaghata",
             "name_bn": "বটিয়াঘাটা"
           },
           {
-            "id": 258,
+            "id": 262,
             "division_name": "khulna",
             "district_name": "khulna",
             "name": "Dacope",
             "name_bn": "দাকোপ"
           },
           {
-            "id": 259,
+            "id": 263,
             "division_name": "khulna",
             "district_name": "khulna",
             "name": "Dighalia",
             "name_bn": "দিঘলিয়া"
           },
           {
-            "id": 260,
+            "id": 264,
             "division_name": "khulna",
             "district_name": "khulna",
             "name": "Dumuria",
             "name_bn": "ডুমুরিয়া"
           },
           {
-            "id": 261,
+            "id": 265,
             "division_name": "khulna",
             "district_name": "khulna",
             "name": "Koyra",
             "name_bn": "কয়রা"
           },
           {
-            "id": 262,
+            "id": 266,
             "division_name": "khulna",
             "district_name": "khulna",
             "name": "Paikgachha",
             "name_bn": "পাইকগাছা"
           },
           {
-            "id": 263,
+            "id": 267,
             "division_name": "khulna",
             "district_name": "khulna",
             "name": "Phultala",
             "name_bn": "ফুলতলা"
           },
           {
-            "id": 264,
+            "id": 268,
             "division_name": "khulna",
             "district_name": "khulna",
             "name": "Rupsa",
             "name_bn": "রূপসা"
           },
           {
-            "id": 265,
+            "id": 269,
             "division_name": "khulna",
             "district_name": "khulna",
             "name": "Terokhada",
@@ -2234,57 +2214,56 @@
         "name_bn": "যশোর",
         "subdistricts": [
           {
-            "id": 288,
+            "id": 270,
             "division_name": "khulna",
             "district_name": "jessore",
             "name": "Jessore Sadar",
             "name_bn": "যশোর সদর"
           },
           {
-            "id": 283,
+            "id": 271,
             "division_name": "khulna",
             "district_name": "jessore",
             "name": "Abhaynagar",
             "name_bn": "অভয়নগর"
           },
           {
-            "id": 284,
+            "id": 272,
             "division_name": "khulna",
             "district_name": "jessore",
             "name": "Bagherpara",
             "name_bn": "বাঘারপাড়া"
           },
           {
-            "id": 285,
+            "id": 273,
             "division_name": "khulna",
             "district_name": "jessore",
             "name": "Chaugachha",
             "name_bn": "চৌগাছা"
           },
           {
-            "id": 286,
+            "id": 274,
             "division_name": "khulna",
             "district_name": "jessore",
             "name": "Jhikargachha",
             "name_bn": "ঝিকরগাছা"
           },
           {
-            "id": 287,
+            "id": 275,
             "division_name": "khulna",
             "district_name": "jessore",
             "name": "Keshabpur",
             "name_bn": "কেশবপুর"
           },
-
           {
-            "id": 289,
+            "id": 276,
             "division_name": "khulna",
             "district_name": "jessore",
             "name": "Manirampur",
             "name_bn": "মণিরামপুর"
           },
           {
-            "id": 290,
+            "id": 277,
             "division_name": "khulna",
             "district_name": "jessore",
             "name": "Sharsha",
@@ -2299,50 +2278,49 @@
         "name_bn": "সাতক্ষীরা",
         "subdistricts": [
           {
-            "id": 280,
+            "id": 278,
             "division_name": "khulna",
             "district_name": "satkhira",
             "name": "Satkhira Sadar",
             "name_bn": "সাতক্ষীরা সদর"
           },
           {
-            "id": 276,
+            "id": 279,
             "division_name": "khulna",
             "district_name": "satkhira",
             "name": "Assasuni",
             "name_bn": "আশাশুনি"
           },
           {
-            "id": 277,
+            "id": 280,
             "division_name": "khulna",
             "district_name": "satkhira",
             "name": "Debhata",
             "name_bn": "দেবহাটা"
           },
           {
-            "id": 278,
+            "id": 281,
             "division_name": "khulna",
             "district_name": "satkhira",
             "name": "Kalaroa",
             "name_bn": "কলারোয়া"
           },
           {
-            "id": 279,
+            "id": 282,
             "division_name": "khulna",
             "district_name": "satkhira",
             "name": "Kaliganj",
             "name_bn": "কালিগঞ্জ"
           },
-
           {
-            "id": 281,
+            "id": 283,
             "division_name": "khulna",
             "district_name": "satkhira",
             "name": "Shyamnagar",
             "name_bn": "শ্যামনগর"
           },
           {
-            "id": 282,
+            "id": 284,
             "division_name": "khulna",
             "district_name": "satkhira",
             "name": "Tala",
@@ -2357,63 +2335,63 @@
         "name_bn": "বাগেরহাট",
         "subdistricts": [
           {
-            "id": 267,
+            "id": 285,
             "division_name": "khulna",
             "district_name": "bagerhat",
             "name": "Bagerhat Sadar",
             "name_bn": "বাগেরহাট সদর"
           },
           {
-            "id": 268,
+            "id": 286,
             "division_name": "khulna",
             "district_name": "bagerhat",
             "name": "Chitalmari",
             "name_bn": "চিতলমারী"
           },
           {
-            "id": 269,
+            "id": 287,
             "division_name": "khulna",
             "district_name": "bagerhat",
             "name": "Fakirhat",
             "name_bn": "ফকিরহাট"
           },
           {
-            "id": 270,
+            "id": 288,
             "division_name": "khulna",
             "district_name": "bagerhat",
             "name": "Kachua",
             "name_bn": "কচুয়া"
           },
           {
-            "id": 271,
+            "id": 289,
             "division_name": "khulna",
             "district_name": "bagerhat",
             "name": "Mollahat",
             "name_bn": "মোল্লাহাট"
           },
           {
-            "id": 272,
+            "id": 290,
             "division_name": "khulna",
             "district_name": "bagerhat",
             "name": "Mongla",
             "name_bn": "মোংলা"
           },
           {
-            "id": 273,
+            "id": 291,
             "division_name": "khulna",
             "district_name": "bagerhat",
             "name": "Morrelganj",
             "name_bn": "মোড়েলগঞ্জ"
           },
           {
-            "id": 274,
+            "id": 292,
             "division_name": "khulna",
             "district_name": "bagerhat",
             "name": "Rampal",
             "name_bn": "রামপাল"
           },
           {
-            "id": 275,
+            "id": 293,
             "division_name": "khulna",
             "district_name": "bagerhat",
             "name": "Sarankhola",
@@ -2428,29 +2406,28 @@
         "name_bn": "চুয়াডাঙ্গা",
         "subdistricts": [
           {
-            "id": 314,
+            "id": 294,
             "division_name": "khulna",
             "district_name": "chuadanga",
             "name": "Chuadanga Sadar",
             "name_bn": "চুয়াডাঙ্গা সদর"
           },
           {
-            "id": 313,
+            "id": 295,
             "division_name": "khulna",
             "district_name": "chuadanga",
             "name": "Alamdanga",
             "name_bn": "আলমডাঙ্গা"
           },
-
           {
-            "id": 315,
+            "id": 296,
             "division_name": "khulna",
             "district_name": "chuadanga",
             "name": "Damurhuda",
             "name_bn": "দামুড়হুদা"
           },
           {
-            "id": 316,
+            "id": 297,
             "division_name": "khulna",
             "district_name": "chuadanga",
             "name": "Jibannagar",
@@ -2465,43 +2442,42 @@
         "name_bn": "ঝিনাইদহ",
         "subdistricts": [
           {
-            "id": 292,
+            "id": 298,
             "division_name": "khulna",
             "district_name": "jhenaidah",
             "name": "Jhenaidah Sadar",
             "name_bn": "ঝিনাইদহ সদর"
           },
           {
-            "id": 291,
+            "id": 299,
             "division_name": "khulna",
             "district_name": "jhenaidah",
             "name": "Harinakunda",
             "name_bn": "হরিণাকুন্ডু"
           },
-
           {
-            "id": 293,
+            "id": 300,
             "division_name": "khulna",
             "district_name": "jhenaidah",
             "name": "Kaliganj",
             "name_bn": "কালিগঞ্জ"
           },
           {
-            "id": 294,
+            "id": 301,
             "division_name": "khulna",
             "district_name": "jhenaidah",
             "name": "Kotchandpur",
             "name_bn": "কোটচাঁদপুর"
           },
           {
-            "id": 295,
+            "id": 302,
             "division_name": "khulna",
             "district_name": "jhenaidah",
             "name": "Maheshpur",
             "name_bn": "মহেশপুর"
           },
           {
-            "id": 296,
+            "id": 303,
             "division_name": "khulna",
             "district_name": "jhenaidah",
             "name": "Shailkupa",
@@ -2516,43 +2492,42 @@
         "name_bn": "কুষ্টিয়া",
         "subdistricts": [
           {
-            "id": 300,
+            "id": 304,
             "division_name": "khulna",
             "district_name": "kushtia",
             "name": "Kushtia Sadar",
             "name_bn": "কুষ্টিয়া সদর"
           },
           {
-            "id": 297,
+            "id": 305,
             "division_name": "khulna",
             "district_name": "kushtia",
             "name": "Bheramara",
             "name_bn": "ভেড়ামারা"
           },
           {
-            "id": 298,
+            "id": 306,
             "division_name": "khulna",
             "district_name": "kushtia",
             "name": "Daulatpur",
             "name_bn": "দৌলতপুর"
           },
           {
-            "id": 299,
+            "id": 307,
             "division_name": "khulna",
             "district_name": "kushtia",
             "name": "Kumarkhali",
             "name_bn": "কুমারখালী"
           },
-
           {
-            "id": 301,
+            "id": 308,
             "division_name": "khulna",
             "district_name": "kushtia",
             "name": "Khoksa",
             "name_bn": "খোকসা"
           },
           {
-            "id": 302,
+            "id": 309,
             "division_name": "khulna",
             "district_name": "kushtia",
             "name": "Mirpur",
@@ -2567,28 +2542,28 @@
         "name_bn": "মাগুরা",
         "subdistricts": [
           {
-            "id": 303,
+            "id": 310,
             "division_name": "khulna",
             "district_name": "magura",
             "name": "Magura Sadar",
             "name_bn": "মাগুরা সদর"
           },
           {
-            "id": 304,
+            "id": 311,
             "division_name": "khulna",
             "district_name": "magura",
             "name": "Mohammadpur",
             "name_bn": "মোহাম্মদপুর"
           },
           {
-            "id": 305,
+            "id": 312,
             "division_name": "khulna",
             "district_name": "magura",
             "name": "Shalikha",
             "name_bn": "শালিখা"
           },
           {
-            "id": 306,
+            "id": 313,
             "division_name": "khulna",
             "district_name": "magura",
             "name": "Sreepur",
@@ -2603,22 +2578,21 @@
         "name_bn": "মেহেরপুর",
         "subdistricts": [
           {
-            "id": 308,
+            "id": 314,
             "division_name": "khulna",
             "district_name": "meherpur",
             "name": "Meherpur Sadar",
             "name_bn": "মেহেরপুর সদর"
           },
           {
-            "id": 307,
+            "id": 315,
             "division_name": "khulna",
             "district_name": "meherpur",
             "name": "Gangni",
             "name_bn": "গাংনী"
           },
-
           {
-            "id": 309,
+            "id": 316,
             "division_name": "khulna",
             "district_name": "meherpur",
             "name": "Mujibnagar",
@@ -2633,27 +2607,26 @@
         "name_bn": "নড়াইল",
         "subdistricts": [
           {
-            "id": 312,
+            "id": 317,
             "division_name": "khulna",
             "district_name": "narail",
             "name": "Narail Sadar",
             "name_bn": "নড়াইল সদর"
           },
           {
-            "id": 310,
+            "id": 318,
             "division_name": "khulna",
             "district_name": "narail",
             "name": "Kalia",
             "name_bn": "কালিয়া"
           },
           {
-            "id": 311,
+            "id": 319,
             "division_name": "khulna",
             "district_name": "narail",
             "name": "Lohagara",
             "name_bn": "লোহাগড়া"
           }
-
         ]
       }
     ]
@@ -2670,78 +2643,70 @@
         "name_bn": "বরিশাল",
         "subdistricts": [
           {
-            "id": 321,
-            "division_name": "barisal",
-            "district_name": "barisal",
-            "name": "Barisal City Corporation",
-            "name_bn": "বরিশাল সিটি কর্পোরেশন"
-          },
-          {
-            "id": 321,
+            "id": 320,
             "division_name": "barisal",
             "district_name": "barisal",
             "name": "Barisal Sadar",
             "name_bn": "বরিশাল সদর"
           },
           {
-            "id": 317,
+            "id": 321,
             "division_name": "barisal",
             "district_name": "barisal",
             "name": "Agailjhara",
             "name_bn": "আগৈলঝাড়া"
           },
           {
-            "id": 318,
+            "id": 322,
             "division_name": "barisal",
             "district_name": "barisal",
             "name": "Babuganj",
             "name_bn": "বাবুগঞ্জ"
           },
           {
-            "id": 319,
+            "id": 323,
             "division_name": "barisal",
             "district_name": "barisal",
             "name": "Bakerganj",
             "name_bn": "বাকেরগঞ্জ"
           },
           {
-            "id": 320,
+            "id": 324,
             "division_name": "barisal",
             "district_name": "barisal",
             "name": "Banaripara",
             "name_bn": "বানারীপাড়া"
           },
-
           {
-            "id": 322,
+            "id": 325,
             "division_name": "barisal",
             "district_name": "barisal",
             "name": "Gaurnadi",
             "name_bn": "গৌরনদী"
           },
           {
-            "id": 323,
+            "id": 326,
             "division_name": "barisal",
             "district_name": "barisal",
             "name": "Hizla",
             "name_bn": "হিজলা"
           },
           {
-            "id": 324,
+            "id": 327,
             "division_name": "barisal",
             "district_name": "barisal",
             "name": "Mehendiganj",
             "name_bn": "মেহেন্দিগঞ্জ"
           },
           {
-            "id": 325,
+            "id": 328,
             "division_name": "barisal",
             "district_name": "barisal",
             "name": "Muladi",
             "name_bn": "মুলাদী"
           },
           {
-            "id": 326,
+            "id": 329,
             "division_name": "barisal",
             "district_name": "barisal",
             "name": "Wazirpur",
@@ -2756,43 +2721,42 @@
         "name_bn": "বরগুনা",
         "subdistricts": [
           {
-            "id": 329,
+            "id": 330,
             "division_name": "barisal",
             "district_name": "barguna",
             "name": "Barguna Sadar",
             "name_bn": "বরগুনা সদর"
           },
           {
-            "id": 327,
+            "id": 331,
             "division_name": "barisal",
             "district_name": "barguna",
             "name": "Amtali",
             "name_bn": "আমতলী"
           },
           {
-            "id": 328,
+            "id": 332,
             "division_name": "barisal",
             "district_name": "barguna",
             "name": "Bamna",
             "name_bn": "বামনা"
           },
-
           {
-            "id": 330,
+            "id": 333,
             "division_name": "barisal",
             "district_name": "barguna",
             "name": "Betagi",
             "name_bn": "বেতাগী"
           },
           {
-            "id": 331,
+            "id": 334,
             "division_name": "barisal",
             "district_name": "barguna",
             "name": "Patharghata",
             "name_bn": "পাথরঘাটা"
           },
           {
-            "id": 332,
+            "id": 335,
             "division_name": "barisal",
             "district_name": "barguna",
             "name": "Taltali",
@@ -2807,49 +2771,49 @@
         "name_bn": "ভোলা",
         "subdistricts": [
           {
-            "id": 333,
+            "id": 336,
             "division_name": "barisal",
             "district_name": "bhola",
             "name": "Bhola Sadar",
             "name_bn": "ভোলা সদর"
           },
           {
-            "id": 334,
+            "id": 337,
             "division_name": "barisal",
             "district_name": "bhola",
             "name": "Burhanuddin",
             "name_bn": "বোরহানউদ্দিন"
           },
           {
-            "id": 335,
+            "id": 338,
             "division_name": "barisal",
             "district_name": "bhola",
             "name": "Charfasson",
             "name_bn": "চরফ্যাশন"
           },
           {
-            "id": 336,
+            "id": 339,
             "division_name": "barisal",
             "district_name": "bhola",
             "name": "Daulatkhan",
             "name_bn": "দৌলতখান"
           },
           {
-            "id": 337,
+            "id": 340,
             "division_name": "barisal",
             "district_name": "bhola",
             "name": "Lalmohan",
             "name_bn": "লালমোহন"
           },
           {
-            "id": 338,
+            "id": 341,
             "division_name": "barisal",
             "district_name": "bhola",
             "name": "Manpura",
             "name_bn": "মনপুরা"
           },
           {
-            "id": 339,
+            "id": 342,
             "division_name": "barisal",
             "district_name": "bhola",
             "name": "Tazumuddin",
@@ -2864,28 +2828,28 @@
         "name_bn": "ঝালকাঠি",
         "subdistricts": [
           {
-            "id": 340,
+            "id": 343,
             "division_name": "barisal",
             "district_name": "jhalokati",
             "name": "Jhalokati Sadar",
             "name_bn": "ঝালকাঠি সদর"
           },
           {
-            "id": 341,
+            "id": 344,
             "division_name": "barisal",
             "district_name": "jhalokati",
             "name": "Kathalia",
             "name_bn": "কাঠালিয়া"
           },
           {
-            "id": 342,
+            "id": 345,
             "division_name": "barisal",
             "district_name": "jhalokati",
             "name": "Nalchiti",
             "name_bn": "নলছিটি"
           },
           {
-            "id": 343,
+            "id": 346,
             "division_name": "barisal",
             "district_name": "jhalokati",
             "name": "Rajapur",
@@ -2900,58 +2864,56 @@
         "name_bn": "পটুয়াখালী",
         "subdistricts": [
           {
-            "id": 349,
+            "id": 347,
             "division_name": "barisal",
             "district_name": "patuakhali",
             "name": "Patuakhali Sadar",
             "name_bn": "পটুয়াখালী সদর"
           },
           {
-            "id": 344,
+            "id": 348,
             "division_name": "barisal",
             "district_name": "patuakhali",
             "name": "Bauphal",
             "name_bn": "বাউফল"
           },
           {
-            "id": 345,
+            "id": 349,
             "division_name": "barisal",
             "district_name": "patuakhali",
             "name": "Dashmina",
             "name_bn": "দশমিনা"
           },
           {
-            "id": 346,
+            "id": 350,
             "division_name": "barisal",
             "district_name": "patuakhali",
             "name": "Galachipa",
             "name_bn": "গলাচিপা"
           },
           {
-            "id": 347,
+            "id": 351,
             "division_name": "barisal",
             "district_name": "patuakhali",
             "name": "Kalapara",
             "name_bn": "কলাপাড়া"
           },
           {
-            "id": 348,
+            "id": 352,
             "division_name": "barisal",
             "district_name": "patuakhali",
             "name": "Mirzaganj",
             "name_bn": "মির্জাগঞ্জ"
           },
-
           {
-            "id": 350,
+            "id": 353,
             "division_name": "barisal",
             "district_name": "patuakhali",
             "name": "Rangabali",
             "name_bn": "রাঙ্গাবালী"
           },
-
           {
-            "id": 351,
+            "id": 354,
             "division_name": "barisal",
             "district_name": "patuakhali",
             "name": "Dumki",
@@ -2966,50 +2928,49 @@
         "name_bn": "পিরোজপুর",
         "subdistricts": [
           {
-            "id": 356,
+            "id": 355,
             "division_name": "barisal",
             "district_name": "pirojpur",
             "name": "Pirojpur Sadar",
             "name_bn": "পিরোজপুর সদর"
           },
           {
-            "id": 352,
+            "id": 356,
             "division_name": "barisal",
             "district_name": "pirojpur",
             "name": "Bhandaria",
             "name_bn": "ভাণ্ডারিয়া"
           },
           {
-            "id": 353,
+            "id": 357,
             "division_name": "barisal",
             "district_name": "pirojpur",
             "name": "Kaukhali",
             "name_bn": "কাউখালী"
           },
           {
-            "id": 354,
+            "id": 358,
             "division_name": "barisal",
             "district_name": "pirojpur",
             "name": "Mathbaria",
             "name_bn": "মঠবাড়িয়া"
           },
           {
-            "id": 355,
+            "id": 359,
             "division_name": "barisal",
             "district_name": "pirojpur",
             "name": "Nazirpur",
             "name_bn": "নাজিরপুর"
           },
-
           {
-            "id": 357,
+            "id": 360,
             "division_name": "barisal",
             "district_name": "pirojpur",
             "name": "Nesarabad",
             "name_bn": "নেছারাবাদ"
           },
           {
-            "id": 358,
+            "id": 361,
             "division_name": "barisal",
             "district_name": "pirojpur",
             "name": "Indurkani",
@@ -3031,99 +2992,91 @@
         "name_bn": "সিলেট",
         "subdistricts": [
           {
-            "id": 370,
-            "division_name": "sylhet",
-            "district_name": "sylhet",
-            "name": "Sylhet City Corporation",
-            "name_bn": "সিলেট সিটি কর্পোরেশন"
-          },
-          {
-            "id": 370,
+            "id": 362,
             "division_name": "sylhet",
             "district_name": "sylhet",
             "name": "Sylhet Sadar",
             "name_bn": "সিলেট সদর"
           },
           {
-            "id": 359,
+            "id": 363,
             "division_name": "sylhet",
             "district_name": "sylhet",
             "name": "Balaganj",
             "name_bn": "বালাগঞ্জ"
           },
           {
-            "id": 360,
+            "id": 364,
             "division_name": "sylhet",
             "district_name": "sylhet",
             "name": "Beanibazar",
             "name_bn": "বিয়ানীবাজার"
           },
           {
-            "id": 361,
+            "id": 365,
             "division_name": "sylhet",
             "district_name": "sylhet",
             "name": "Bishwanath",
             "name_bn": "বিশ্বনাথ"
           },
           {
-            "id": 362,
+            "id": 366,
             "division_name": "sylhet",
             "district_name": "sylhet",
             "name": "Companiganj",
             "name_bn": "কোম্পানীগঞ্জ"
           },
           {
-            "id": 363,
+            "id": 367,
             "division_name": "sylhet",
             "district_name": "sylhet",
             "name": "Dakshin Surma",
             "name_bn": "দক্ষিণ সুরমা"
           },
           {
-            "id": 364,
+            "id": 368,
             "division_name": "sylhet",
             "district_name": "sylhet",
             "name": "Fenchuganj",
             "name_bn": "ফেঞ্চুগঞ্জ"
           },
           {
-            "id": 365,
+            "id": 369,
             "division_name": "sylhet",
             "district_name": "sylhet",
             "name": "Golapganj",
             "name_bn": "গোলাপগঞ্জ"
           },
           {
-            "id": 366,
+            "id": 370,
             "division_name": "sylhet",
             "district_name": "sylhet",
             "name": "Gowainghat",
             "name_bn": "গোয়াইনঘাট"
           },
           {
-            "id": 367,
+            "id": 371,
             "division_name": "sylhet",
             "district_name": "sylhet",
             "name": "Jaintiapur",
             "name_bn": "জৈন্তাপুর"
           },
           {
-            "id": 368,
+            "id": 372,
             "division_name": "sylhet",
             "district_name": "sylhet",
             "name": "Kanaighat",
             "name_bn": "কানাইঘাট"
           },
           {
-            "id": 369,
+            "id": 373,
             "division_name": "sylhet",
             "district_name": "sylhet",
             "name": "Osmaninagar",
             "name_bn": "ওসমানীনগর"
           },
-
           {
-            "id": 371,
+            "id": 374,
             "division_name": "sylhet",
             "district_name": "sylhet",
             "name": "Zakiganj",
@@ -3138,50 +3091,49 @@
         "name_bn": "মৌলভীবাজার",
         "subdistricts": [
           {
-            "id": 376,
+            "id": 375,
             "division_name": "sylhet",
             "district_name": "moulvibazar",
             "name": "Moulvibazar Sadar",
             "name_bn": "মৌলভীবাজার সদর"
           },
           {
-            "id": 372,
+            "id": 376,
             "division_name": "sylhet",
             "district_name": "moulvibazar",
             "name": "Barlekha",
             "name_bn": "বড়লেখা"
           },
           {
-            "id": 373,
+            "id": 377,
             "division_name": "sylhet",
             "district_name": "moulvibazar",
             "name": "Juri",
             "name_bn": "জুড়ী"
           },
           {
-            "id": 374,
+            "id": 378,
             "division_name": "sylhet",
             "district_name": "moulvibazar",
             "name": "Kamalganj",
             "name_bn": "কমলগঞ্জ"
           },
           {
-            "id": 375,
+            "id": 379,
             "division_name": "sylhet",
             "district_name": "moulvibazar",
             "name": "Kulaura",
             "name_bn": "কুলাউড়া"
           },
-
           {
-            "id": 377,
+            "id": 380,
             "division_name": "sylhet",
             "district_name": "moulvibazar",
             "name": "Rajnagar",
             "name_bn": "রাজনগর"
           },
           {
-            "id": 378,
+            "id": 381,
             "division_name": "sylhet",
             "district_name": "moulvibazar",
             "name": "Sreemangal",
@@ -3196,64 +3148,63 @@
         "name_bn": "হবিগঞ্জ",
         "subdistricts": [
           {
-            "id": 383,
+            "id": 382,
             "division_name": "sylhet",
             "district_name": "habiganj",
             "name": "Habiganj Sadar",
             "name_bn": "হবিগঞ্জ সদর"
           },
           {
-            "id": 379,
+            "id": 383,
             "division_name": "sylhet",
             "district_name": "habiganj",
             "name": "Ajmiriganj",
             "name_bn": "আজমিরীগঞ্জ"
           },
           {
-            "id": 380,
+            "id": 384,
             "division_name": "sylhet",
             "district_name": "habiganj",
             "name": "Bahubal",
             "name_bn": "বাহুবল"
           },
           {
-            "id": 381,
+            "id": 385,
             "division_name": "sylhet",
             "district_name": "habiganj",
             "name": "Baniachong",
             "name_bn": "বানিয়াচং"
           },
           {
-            "id": 382,
+            "id": 386,
             "division_name": "sylhet",
             "district_name": "habiganj",
             "name": "Chunarughat",
             "name_bn": "চুনারুঘাট"
           },
-
           {
-            "id": 384,
+            "id": 387,
             "division_name": "sylhet",
             "district_name": "habiganj",
             "name": "Lakhai",
             "name_bn": "লাখাই"
           },
           {
-            "id": 385,
+            "id": 388,
             "division_name": "sylhet",
             "district_name": "habiganj",
             "name": "Madhabpur",
             "name_bn": "মাধবপুর"
           },
           {
-            "id": 386,
+            "id": 389,
             "division_name": "sylhet",
             "district_name": "habiganj",
             "name": "Nabiganj",
             "name_bn": "নবীগঞ্জ"
           },
           {
-            "id": 387,
+            "id": 390,
             "division_name": "sylhet",
             "district_name": "habiganj",
             "name": "Shaistaganj",
@@ -3268,85 +3219,84 @@
         "name_bn": "সুনামগঞ্জ",
         "subdistricts": [
           {
-            "id": 397,
+            "id": 391,
             "division_name": "sylhet",
             "district_name": "sunamganj",
             "name": "Sunamganj Sadar",
             "name_bn": "সুনামগঞ্জ সদর"
           },
           {
-            "id": 388,
+            "id": 392,
             "division_name": "sylhet",
             "district_name": "sunamganj",
             "name": "Bishwambarpur",
             "name_bn": "বিশ্বম্ভরপুর"
           },
           {
-            "id": 389,
+            "id": 393,
             "division_name": "sylhet",
             "district_name": "sunamganj",
             "name": "Chhatak",
             "name_bn": "ছাতক"
           },
           {
-            "id": 390,
+            "id": 394,
             "division_name": "sylhet",
             "district_name": "sunamganj",
             "name": "Derai",
             "name_bn": "দিরাই"
           },
           {
-            "id": 391,
+            "id": 395,
             "division_name": "sylhet",
             "district_name": "sunamganj",
             "name": "Dharampasha",
             "name_bn": "ধর্মপাশা"
           },
           {
-            "id": 392,
+            "id": 396,
             "division_name": "sylhet",
             "district_name": "sunamganj",
             "name": "Dowarabazar",
             "name_bn": "দোয়ারাবাজার"
           },
           {
-            "id": 393,
+            "id": 397,
             "division_name": "sylhet",
             "district_name": "sunamganj",
             "name": "Jagannathpur",
             "name_bn": "জগন্নাথপুর"
           },
           {
-            "id": 394,
+            "id": 398,
             "division_name": "sylhet",
             "district_name": "sunamganj",
             "name": "Jamalganj",
             "name_bn": "জামালগঞ্জ"
           },
           {
-            "id": 395,
+            "id": 399,
             "division_name": "sylhet",
             "district_name": "sunamganj",
             "name": "Shalla",
             "name_bn": "শাল্লা"
           },
           {
-            "id": 396,
+            "id": 400,
             "division_name": "sylhet",
             "district_name": "sunamganj",
             "name": "South Sunamganj",
             "name_bn": "দক্ষিণ সুনামগঞ্জ"
           },
-
           {
-            "id": 398,
+            "id": 401,
             "division_name": "sylhet",
             "district_name": "sunamganj",
             "name": "Tahirpur",
             "name_bn": "তাহিরপুর"
           },
           {
-            "id": 398,
+            "id": 402,
             "division_name": "sylhet",
             "district_name": "sunamganj",
             "name": "Madhyanagar",
@@ -3368,56 +3318,56 @@
         "name_bn": "রংপুর",
         "subdistricts": [
           {
-            "id": 405,
+            "id": 403,
             "division_name": "rangpur",
             "district_name": "rangpur",
             "name": "Rangpur Sadar",
             "name_bn": "রংপুর সদর"
           },
           {
-            "id": 399,
+            "id": 404,
             "division_name": "rangpur",
             "district_name": "rangpur",
             "name": "Badarganj",
             "name_bn": "বদরগঞ্জ"
           },
           {
-            "id": 400,
+            "id": 405,
             "division_name": "rangpur",
             "district_name": "rangpur",
             "name": "Gangachara",
             "name_bn": "গঙ্গাচড়া"
           },
           {
-            "id": 401,
+            "id": 406,
             "division_name": "rangpur",
             "district_name": "rangpur",
             "name": "Kaunia",
             "name_bn": "কাউনিয়া"
           },
           {
-            "id": 402,
+            "id": 407,
             "division_name": "rangpur",
             "district_name": "rangpur",
             "name": "Mithapukur",
             "name_bn": "মিঠাপুকুর"
           },
           {
-            "id": 403,
+            "id": 408,
             "division_name": "rangpur",
             "district_name": "rangpur",
             "name": "Pirgachha",
             "name_bn": "পীরগাছা"
           },
           {
-            "id": 404,
+            "id": 409,
             "division_name": "rangpur",
             "district_name": "rangpur",
             "name": "Pirganj",
             "name_bn": "পীরগঞ্জ"
           },
           {
-            "id": 406,
+            "id": 410,
             "division_name": "rangpur",
             "district_name": "rangpur",
             "name": "Taraganj",
@@ -3432,91 +3382,91 @@
         "name_bn": "দিনাজপুর",
         "subdistricts": [
           {
-            "id": 417,
+            "id": 411,
             "division_name": "rangpur",
             "district_name": "dinajpur",
             "name": "Dinajpur Sadar",
             "name_bn": "দিনাজপুর সদর"
           },
           {
-            "id": 407,
+            "id": 412,
             "division_name": "rangpur",
             "district_name": "dinajpur",
             "name": "Birampur",
             "name_bn": "বিরামপুর"
           },
           {
-            "id": 408,
+            "id": 413,
             "division_name": "rangpur",
             "district_name": "dinajpur",
             "name": "Birganj",
             "name_bn": "বীরগঞ্জ"
           },
           {
-            "id": 409,
+            "id": 414,
             "division_name": "rangpur",
             "district_name": "dinajpur",
             "name": "Biral",
             "name_bn": "বিরল"
           },
           {
-            "id": 410,
+            "id": 415,
             "division_name": "rangpur",
             "district_name": "dinajpur",
             "name": "Bochaganj",
             "name_bn": "বোচাগঞ্জ"
           },
           {
-            "id": 411,
+            "id": 416,
             "division_name": "rangpur",
             "district_name": "dinajpur",
             "name": "Chirirbandar",
             "name_bn": "ছিরিরবন্দর"
           },
           {
-            "id": 412,
+            "id": 417,
             "division_name": "rangpur",
             "district_name": "dinajpur",
             "name": "Fulbari",
             "name_bn": "ফুলবাড়ী"
           },
           {
-            "id": 413,
+            "id": 418,
             "division_name": "rangpur",
             "district_name": "dinajpur",
             "name": "Ghoraghat",
             "name_bn": "ঘোড়াঘাট"
           },
           {
-            "id": 414,
+            "id": 419,
             "division_name": "rangpur",
             "district_name": "dinajpur",
             "name": "Hakimpur",
             "name_bn": "হাকিমপুর"
           },
           {
-            "id": 415,
+            "id": 420,
             "division_name": "rangpur",
             "district_name": "dinajpur",
             "name": "Kaharole",
             "name_bn": "কাহারোল"
           },
           {
-            "id": 416,
+            "id": 421,
             "division_name": "rangpur",
             "district_name": "dinajpur",
             "name": "Khansama",
             "name_bn": "খানসামা"
           },
           {
-            "id": 418,
+            "id": 422,
             "division_name": "rangpur",
             "district_name": "dinajpur",
             "name": "Nawabganj",
             "name_bn": "নবাবগঞ্জ"
           },
           {
-            "id": 419,
+            "id": 423,
             "division_name": "rangpur",
             "district_name": "dinajpur",
             "name": "Parbatipur",
@@ -3531,50 +3481,49 @@
         "name_bn": "গাইবান্ধা",
         "subdistricts": [
           {
-            "id": 421,
+            "id": 424,
             "division_name": "rangpur",
             "district_name": "gaibandha",
             "name": "Gaibandha Sadar",
             "name_bn": "গাইবান্ধা সদর"
           },
           {
-            "id": 420,
+            "id": 425,
             "division_name": "rangpur",
             "district_name": "gaibandha",
             "name": "Fulchhari",
             "name_bn": "ফুলছড়ি"
           },
-
           {
-            "id": 422,
+            "id": 426,
             "division_name": "rangpur",
             "district_name": "gaibandha",
             "name": "Gobindaganj",
             "name_bn": "গোবিন্দগঞ্জ"
           },
           {
-            "id": 423,
+            "id": 427,
             "division_name": "rangpur",
             "district_name": "gaibandha",
             "name": "Palashbari",
             "name_bn": "পলাশবাড়ী"
           },
           {
-            "id": 424,
+            "id": 428,
             "division_name": "rangpur",
             "district_name": "gaibandha",
             "name": "Sadullapur",
             "name_bn": "সাদুল্লাপুর"
           },
           {
-            "id": 425,
+            "id": 429,
             "division_name": "rangpur",
             "district_name": "gaibandha",
             "name": "Saghata",
             "name_bn": "সাঘাটা"
           },
           {
-            "id": 426,
+            "id": 430,
             "division_name": "rangpur",
             "district_name": "gaibandha",
             "name": "Sundarganj",
@@ -3589,64 +3538,63 @@
         "name_bn": "কুড়িগ্রাম",
         "subdistricts": [
           {
-            "id": 430,
+            "id": 431,
             "division_name": "rangpur",
             "district_name": "kurigram",
             "name": "Kurigram Sadar",
             "name_bn": "কুড়িগ্রাম সদর"
           },
           {
-            "id": 427,
+            "id": 432,
             "division_name": "rangpur",
             "district_name": "kurigram",
             "name": "Bhurungamari",
             "name_bn": "ভুরুঙ্গামারী"
           },
           {
-            "id": 428,
+            "id": 433,
             "division_name": "rangpur",
             "district_name": "kurigram",
             "name": "Chilmari",
             "name_bn": "চিলমারী"
           },
           {
-            "id": 429,
+            "id": 434,
             "division_name": "rangpur",
             "district_name": "kurigram",
             "name": "Phulbari",
             "name_bn": "ফুলবাড়ী"
           },
-
           {
-            "id": 431,
+            "id": 435,
             "division_name": "rangpur",
             "district_name": "kurigram",
             "name": "Nageshwari",
             "name_bn": "নাগেশ্বরী"
           },
           {
-            "id": 432,
+            "id": 436,
             "division_name": "rangpur",
             "district_name": "kurigram",
             "name": "Rajarhat",
             "name_bn": "রাজারহাট"
           },
           {
-            "id": 433,
+            "id": 437,
             "division_name": "rangpur",
             "district_name": "kurigram",
             "name": "Raomari",
             "name_bn": "রৌমারী"
           },
           {
-            "id": 434,
+            "id": 438,
             "division_name": "rangpur",
             "district_name": "kurigram",
             "name": "Char Rajibpur",
             "name_bn": "চর রাজিবপুর"
           },
           {
-            "id": 435,
+            "id": 439,
             "division_name": "rangpur",
             "district_name": "kurigram",
             "name": "Ulipur",
@@ -3661,36 +3609,35 @@
         "name_bn": "লালমনিরহাট",
         "subdistricts": [
           {
-            "id": 439,
+            "id": 440,
             "division_name": "rangpur",
             "district_name": "lalmonirhat",
             "name": "Lalmonirhat Sadar",
             "name_bn": "লালমনিরহাট সদর"
           },
           {
-            "id": 436,
+            "id": 441,
             "division_name": "rangpur",
             "district_name": "lalmonirhat",
             "name": "Aditmari",
             "name_bn": "আদিতমারী"
           },
           {
-            "id": 437,
+            "id": 442,
             "division_name": "rangpur",
             "district_name": "lalmonirhat",
             "name": "Hatibandha",
             "name_bn": "হাতিবান্ধা"
           },
           {
-            "id": 438,
+            "id": 443,
             "division_name": "rangpur",
             "district_name": "lalmonirhat",
             "name": "Kaliganj",
             "name_bn": "কালীগঞ্জ"
           },
-
           {
-            "id": 440,
+            "id": 444,
             "division_name": "rangpur",
             "district_name": "lalmonirhat",
             "name": "Patgram",
@@ -3712,36 +3659,35 @@
             "name_bn": "নীলফামারী সদর"
           },
           {
-            "id": 441,
+            "id": 446,
             "division_name": "rangpur",
             "district_name": "nilphamari",
             "name": "Dimla",
             "name_bn": "ডিমলা"
           },
           {
-            "id": 442,
+            "id": 447,
             "division_name": "rangpur",
             "district_name": "nilphamari",
             "name": "Domar",
             "name_bn": "ডোমার"
           },
           {
-            "id": 443,
+            "id": 448,
             "division_name": "rangpur",
             "district_name": "nilphamari",
             "name": "Jaldhaka",
             "name_bn": "জলঢাকা"
           },
           {
-            "id": 444,
+            "id": 449,
             "division_name": "rangpur",
             "district_name": "nilphamari",
             "name": "Kishoreganj",
             "name_bn": "কিশোরগঞ্জ"
           },
-
           {
-            "id": 446,
+            "id": 450,
             "division_name": "rangpur",
             "district_name": "nilphamari",
             "name": "Saidpur",
@@ -3756,36 +3702,35 @@
         "name_bn": "পঞ্চগড়",
         "subdistricts": [
           {
-            "id": 450,
+            "id": 451,
             "division_name": "rangpur",
             "district_name": "panchagarh",
             "name": "Panchagarh Sadar",
             "name_bn": "পঞ্চগড় সদর"
           },
           {
-            "id": 447,
+            "id": 452,
             "division_name": "rangpur",
             "district_name": "panchagarh",
             "name": "Atwari",
             "name_bn": "আটোয়ারী"
           },
           {
-            "id": 448,
+            "id": 453,
             "division_name": "rangpur",
             "district_name": "panchagarh",
             "name": "Boda",
             "name_bn": "বোদা"
           },
           {
-            "id": 449,
+            "id": 454,
             "division_name": "rangpur",
             "district_name": "panchagarh",
             "name": "Debiganj",
             "name_bn": "দেবীগঞ্জ"
           },
-
           {
-            "id": 451,
+            "id": 455,
             "division_name": "rangpur",
             "district_name": "panchagarh",
             "name": "Tetulia",
@@ -3807,28 +3752,28 @@
             "name_bn": "ঠাকুরগাঁও সদর"
           },
           {
-            "id": 452,
+            "id": 457,
             "division_name": "rangpur",
             "district_name": "thakurgaon",
             "name": "Baliadangi",
             "name_bn": "বালিয়াডাঙ্গী"
           },
           {
-            "id": 453,
+            "id": 458,
             "division_name": "rangpur",
             "district_name": "thakurgaon",
             "name": "Haripur",
             "name_bn": "হরিপুর"
           },
           {
-            "id": 454,
+            "id": 459,
             "division_name": "rangpur",
             "district_name": "thakurgaon",
             "name": "Pirganj",
             "name_bn": "পীরগঞ্জ"
           },
           {
-            "id": 455,
+            "id": 460,
             "division_name": "rangpur",
             "district_name": "thakurgaon",
             "name": "Ranisankail",
@@ -3850,91 +3795,91 @@
         "name_bn": "ময়মনসিংহ",
         "subdistricts": [
           {
-            "id": 464,
+            "id": 461,
             "division_name": "mymensingh",
             "district_name": "mymensingh",
             "name": "Mymensingh Sadar",
             "name_bn": "ময়মনসিংহ সদর"
           },
           {
-            "id": 457,
+            "id": 462,
             "division_name": "mymensingh",
             "district_name": "mymensingh",
             "name": "Bhaluka",
             "name_bn": "ভালুকা"
           },
           {
-            "id": 458,
+            "id": 463,
             "division_name": "mymensingh",
             "district_name": "mymensingh",
             "name": "Dhobaura",
             "name_bn": "ধবাউড়া"
           },
           {
-            "id": 459,
+            "id": 464,
             "division_name": "mymensingh",
             "district_name": "mymensingh",
             "name": "Fulbaria",
             "name_bn": "ফুলবাড়িয়া"
           },
           {
-            "id": 460,
+            "id": 465,
             "division_name": "mymensingh",
             "district_name": "mymensingh",
             "name": "Gafargaon",
             "name_bn": "গফরগাঁও"
           },
           {
-            "id": 461,
+            "id": 466,
             "division_name": "mymensingh",
             "district_name": "mymensingh",
             "name": "Gauripur",
             "name_bn": "গৌরীপুর"
           },
           {
-            "id": 462,
+            "id": 467,
             "division_name": "mymensingh",
             "district_name": "mymensingh",
             "name": "Haluaghat",
             "name_bn": "হালুয়াঘাট"
           },
           {
-            "id": 463,
+            "id": 468,
             "division_name": "mymensingh",
             "district_name": "mymensingh",
             "name": "Ishwarganj",
             "name_bn": "ঈশ্বরগঞ্জ"
           },
           {
-            "id": 465,
+            "id": 469,
             "division_name": "mymensingh",
             "district_name": "mymensingh",
             "name": "Muktagachha",
             "name_bn": "মুক্তাগাছা"
           },
           {
-            "id": 466,
+            "id": 470,
             "division_name": "mymensingh",
             "district_name": "mymensingh",
             "name": "Nandail",
             "name_bn": "নান্দাইল"
           },
           {
-            "id": 467,
+            "id": 471,
             "division_name": "mymensingh",
             "district_name": "mymensingh",
             "name": "Phulpur",
             "name_bn": "ফুলপুর"
           },
           {
-            "id": 467,
+            "id": 472,
             "division_name": "mymensingh",
             "district_name": "mymensingh",
             "name": "Tarakanda",
             "name_bn": "তারাকান্দা"
           },
           {
-            "id": 468,
+            "id": 473,
             "division_name": "mymensingh",
             "district_name": "mymensingh",
             "name": "Trishal",
@@ -3949,49 +3894,49 @@
         "name_bn": "জামালপুর",
         "subdistricts": [
           {
-            "id": 472,
+            "id": 474,
             "division_name": "mymensingh",
             "district_name": "jamalpur",
             "name": "Jamalpur Sadar",
             "name_bn": "জামালপুর সদর"
           },
           {
-            "id": 469,
+            "id": 475,
             "division_name": "mymensingh",
             "district_name": "jamalpur",
             "name": "Baksiganj",
             "name_bn": "বকশীগঞ্জ"
           },
           {
-            "id": 470,
+            "id": 476,
             "division_name": "mymensingh",
             "district_name": "jamalpur",
             "name": "Dewanganj",
             "name_bn": "দেওয়ানগঞ্জ"
           },
           {
-            "id": 471,
+            "id": 477,
             "division_name": "mymensingh",
             "district_name": "jamalpur",
             "name": "Islampur",
             "name_bn": "ইসলামপুর"
           },
           {
-            "id": 473,
+            "id": 478,
             "division_name": "mymensingh",
             "district_name": "jamalpur",
             "name": "Madarganj",
             "name_bn": "মাদারগঞ্জ"
           },
           {
-            "id": 474,
+            "id": 479,
             "division_name": "mymensingh",
             "district_name": "jamalpur",
             "name": "Melandaha",
             "name_bn": "মেলান্দহ"
           },
           {
-            "id": 475,
+            "id": 480,
             "division_name": "mymensingh",
             "district_name": "jamalpur",
             "name": "Sarishabari",
@@ -4006,71 +3951,70 @@
         "name_bn": "নেত্রকোণা",
         "subdistricts": [
           {
-            "id": 483,
+            "id": 481,
             "division_name": "mymensingh",
             "district_name": "netrokona",
             "name": "Netrokona Sadar",
             "name_bn": "নেত্রকোণা সদর"
           },
           {
-            "id": 476,
+            "id": 482,
             "division_name": "mymensingh",
             "district_name": "netrokona",
             "name": "Atpara",
             "name_bn": "আটপাড়া"
           },
           {
-            "id": 477,
+            "id": 483,
             "division_name": "mymensingh",
             "district_name": "netrokona",
             "name": "Barhatta",
             "name_bn": "বারহাট্টা"
           },
           {
-            "id": 478,
+            "id": 484,
             "division_name": "mymensingh",
             "district_name": "netrokona",
             "name": "Durgapur",
             "name_bn": "দুর্গাপুর"
           },
           {
-            "id": 479,
+            "id": 485,
             "division_name": "mymensingh",
             "district_name": "netrokona",
             "name": "Kalmakanda",
             "name_bn": "কলমাকান্দা"
           },
           {
-            "id": 480,
+            "id": 486,
             "division_name": "mymensingh",
             "district_name": "netrokona",
             "name": "Kendua",
             "name_bn": "কেন্দুয়া"
           },
           {
-            "id": 481,
+            "id": 487,
             "division_name": "mymensingh",
             "district_name": "netrokona",
             "name": "Madan",
             "name_bn": "মদন"
           },
           {
-            "id": 482,
+            "id": 488,
             "division_name": "mymensingh",
             "district_name": "netrokona",
             "name": "Mohanganj",
             "name_bn": "মোহনগঞ্জ"
           },
-
           {
-            "id": 484,
+            "id": 489,
             "division_name": "mymensingh",
             "district_name": "netrokona",
             "name": "Purbadhala",
             "name_bn": "পূর্বধলা"
           },
           {
-            "id": 485,
+            "id": 490,
             "division_name": "mymensingh",
             "district_name": "netrokona",
             "name": "Khaliajuri",
@@ -4085,36 +4029,35 @@
         "name_bn": "শেরপুর",
         "subdistricts": [
           {
-            "id": 489,
+            "id": 491,
             "division_name": "mymensingh",
             "district_name": "sherpur",
             "name": "Sherpur Sadar",
             "name_bn": "শেরপুর সদর"
           },
           {
-            "id": 486,
+            "id": 492,
             "division_name": "mymensingh",
             "district_name": "sherpur",
             "name": "Jhenaigati",
             "name_bn": "ঝিনাইগাতী"
           },
           {
-            "id": 487,
+            "id": 493,
             "division_name": "mymensingh",
             "district_name": "sherpur",
             "name": "Nakla",
             "name_bn": "নাকলা"
           },
           {
-            "id": 488,
+            "id": 494,
             "division_name": "mymensingh",
             "district_name": "sherpur",
             "name": "Nalitabari",
             "name_bn": "নালিতাবাড়ী"
           },
-
           {
-            "id": 490,
+            "id": 495,
             "division_name": "mymensingh",
             "district_name": "sherpur",
             "name": "Sreebardi",
