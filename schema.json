@@ -1,0 +1,82 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Generated schema for Root",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "number"
+      },
+      "name": {
+        "type": "string"
+      },
+      "name_bn": {
+        "type": "string"
+      },
+      "districts": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "number"
+            },
+            "division_name": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            },
+            "name_bn": {
+              "type": "string"
+            },
+            "subdistricts": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "id": {
+                    "type": "number"
+                  },
+                  "division_name": {
+                    "type": "string"
+                  },
+                  "district_name": {
+                    "type": "string"
+                  },
+                  "name": {
+                    "type": "string"
+                  },
+                  "name_bn": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "id",
+                  "division_name",
+                  "district_name",
+                  "name",
+                  "name_bn"
+                ]
+              }
+            }
+          },
+          "required": [
+            "id",
+            "division_name",
+            "name",
+            "name_bn",
+            "subdistricts"
+          ]
+        }
+      }
+    },
+    "required": [
+      "id",
+      "name",
+      "name_bn",
+      "districts"
+    ]
+  }
+}
